@@ -11,9 +11,6 @@ There is a critical need for an automated surveillance solution that can continu
 
 [link](https://www.linkedin.com/posts/hirakjyoti-815195207_deeplearning-machinelearning-ai-activity-7159154656743415809-5Nl_?utm_source=share&utm_medium=member_desktop)
 
-# Download this Udacity's Self-Driving Car Simulator:
-
-[Repo link](https://github.com/udacity/self-driving-car-sim)
 
 # Generating Data:
 Open the Udacity simulator and select Training Mode. Then click the record button and start driving. A folder will be created with two files IMG and driving_logs.csv 
