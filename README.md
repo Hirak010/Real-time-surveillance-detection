@@ -5,6 +5,8 @@ There is a critical need for an automated surveillance solution that can continu
 
 ![alt text](Vioelence.png)
 
+![alt text](Telegram_bot.jpg)
+
 # Project Demonstration Link:
 
 [link](https://www.linkedin.com/posts/hirakjyoti-815195207_deeplearning-machinelearning-ai-activity-7159154656743415809-5Nl_?utm_source=share&utm_medium=member_desktop)
