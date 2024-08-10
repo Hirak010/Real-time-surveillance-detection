@@ -3,7 +3,7 @@ Real Time Video Surveillance And Triggering System
 
 There is a critical need for an automated surveillance solution that can continuously and accurately monitor environments for signs of emergencies, providing real-time alerts to facilitate rapid intervention. Traditional systems relying on human operators are often slow and prone to errors, which can result in severe consequences, including loss of life and extensive propertydamage. Our project aims to develop a real-time emergency surveillance system that leverages computer vision to detect and respond to critical situations such as fires, violence, and medical emergencies.
 
-![alt text](https://repository-images.githubusercontent.com/278710262/25d99480-c314-11ea-8e3a-de9b289ab474)
+![alt text]()
 
 # Project Demonstration Link:
 
