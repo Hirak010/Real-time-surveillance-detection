@@ -9,11 +9,8 @@ There is a critical need for an automated surveillance solution that can continu
 
 # Project Demonstration Link:
 
-[link](https://www.linkedin.com/posts/hirakjyoti-815195207_deeplearning-machinelearning-ai-activity-7159154656743415809-5Nl_?utm_source=share&utm_medium=member_desktop)
+[link](https://drive.google.com/file/d/1jGzs83KbJ3c6U2SMFaDQ-q-IfVboSkmB/view)
 
-
-# Generating Data:
-Open the Udacity simulator and select Training Mode. Then click the record button and start driving. A folder will be created with two files IMG and driving_logs.csv 
 
 # STEPS to run the project:
 
@@ -21,7 +18,7 @@ Open the Udacity simulator and select Training Mode. Then click the record butto
 Clone the repository
 
 ```bash
-git clone https://github.com/Hirak010/Self-Driving-Car-Simulation
+git clone https://github.com/Hirak010/Real-time-surveillance-detection.git
 ```
 
 ## STEP 02: 
@@ -29,7 +26,7 @@ Create an environment & activate
 
 
 ```bash
-conda create -n env python=3.8 -y
+conda create -n env python=3.11 -y
 ```
 
 ## STEP 03: 
@@ -106,6 +103,6 @@ Project Organization
 
 # Authors:
 ```bash
-Author: Hirakjyoti Medhi
+Authors: Hirakjyoti Medhi, Biswajit Bera, Ashutosh Kumar and Roshan Jha
 Email: hirak170802@gmail.com
 ```
