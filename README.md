@@ -12,6 +12,10 @@ There is a critical need for an automated surveillance solution that can continu
 
 [GDrive Link to Demo: ](https://drive.google.com/file/d/1jGzs83KbJ3c6U2SMFaDQ-q-IfVboSkmB/view)
 
+# Dataset link
+
+https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
+
 
 # STEPS to run the project:
 
