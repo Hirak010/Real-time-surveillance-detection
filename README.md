@@ -55,6 +55,8 @@ python alert.py
 
 ## Human Fall Detection
 
+![alt text](artifacts/Violence.png)
+
 - You can check distance between foot C.G and body C.G
 - It's body center of gravity
 - It's foot center of gravity
