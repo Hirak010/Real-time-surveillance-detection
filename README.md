@@ -83,6 +83,15 @@ violence category was chosen
 - Utilizes an inverted residual structure where the input and output of the residual blocks are thin bottleneck layers.
 - Uses lightweight convolutions to filter features in the expansion layer.
 
+## Fire Detection
+### Methodology
+![alt text](artifacts/fire.jpg)
+
+- Loading the Pre-Trained Model: The cv2.CascadeClassifier is used to load a pre-trained fire detection model from an XML file. The file contains data from a model trained on images with and without fire, allowing it to detect fire patterns in new images.
+- How Cascade Classifier Works: The model processes video frames by scaling the image and sliding a window across different regions. Features like edges and textures are extracted from each window and compared against the patterns in the pre-trained model. The classifier uses a cascading process, quickly eliminating areas without fire and focusing on regions that potentially contain fire.
+- Real-Time Detection: The system captures frames from a video feed, applies the trained model to detect fire, and triggers an alarm sound if fire is detected.
+
+
 
 # Authors:
 ```bash
