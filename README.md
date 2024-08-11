@@ -10,7 +10,7 @@ There is a critical need for an automated surveillance solution that can continu
 
 # Project Demonstration Link:
 
-[GDrive Link to Demo: ](https://drive.google.com/file/d/1jGzs83KbJ3c6U2SMFaDQ-q-IfVboSkmB/view)
+[GDrive Link to Demo: ](https://drive.google.com/file/d/1YtPSY-Q1Xp_LdIYvHNcUdkq8IL7Nck73/view?usp=drive_link)
 
 # Dataset link
 
