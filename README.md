@@ -5,7 +5,7 @@ There is a critical need for an automated surveillance solution that can continu
 
 ![alt text](artifacts/Violence.png)
 
-<img src="Telegram_bot.jpg" alt="alt text" width="200"/>
+<img src="artifacts/Telegram_bot.jpg" alt="alt text" width="200"/>
 
 
 # Project Demonstration Link:
