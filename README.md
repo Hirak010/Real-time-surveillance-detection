@@ -63,7 +63,7 @@ python alert.py
 - It's foot center of gravity
 - You can check the count of how many times he fell.
 - If distance over 90 pixel(tall * 0.75), It displays he falling.
-- 1) Body C.G and foot C.G. 2) Only use X axis. 3) I use this distance difference to basis of judgment
+- 1. Body C.G and foot C.G. 2. Only use X axis. 3. I use this distance difference to basis of judgment
 - It indicates if he woke up. (This only displays after falling.)
 - A count of 1 goes up in the area where you fell (the count is determined by which area your feet are in).
 
