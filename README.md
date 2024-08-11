@@ -32,6 +32,7 @@ Create an environment & activate
 
 ```bash
 conda create -n env python=3.11 -y
+conda activate ./env
 ```
 
 ## STEP 03: 
