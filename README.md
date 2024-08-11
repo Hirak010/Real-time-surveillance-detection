@@ -69,6 +69,7 @@ python alert.py
 
 ## Violence Detection
 ### Methodology
+![alt text](artifacts/violence_detection.png)
 
 - A dataset having 1000 videos each of violence category and non
 violence category was chosen
