@@ -54,6 +54,7 @@ python alert.py
 # Technical Aspects
 
 ## Human Fall Detection
+### Methodology
 
 ![alt text](artifacts/mediapipe_opencv.png)
 
@@ -66,6 +67,19 @@ python alert.py
 - It indicates if he woke up. (This only displays after falling.)
 - A count of 1 goes up in the area where you fell (the count is determined by which area your feet are in).
 
+## Violence Detection
+### Methodology
+
+- A dataset having 1000 videos each of violence category and non
+violence category was chosen
+- A model was trained using MobileNetV2 using the dataset
+- Real time video footage is given as input
+- Output is obtained as image frames
+- Use MobileNet V2 archvhitecture
+- It is a Convolutional neural network that is 53 layers deep
+- Provides real time classification capabilities under computing constraints in devices like smartphones.
+- Utilizes an inverted residual structure where the input and output of the residual blocks are thin bottleneck layers.
+- Uses lightweight convolutions to filter features in the expansion layer.
 
 
 # Authors:
